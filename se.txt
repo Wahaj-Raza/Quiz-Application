@@ -1,0 +1,10 @@
+What planet is the biggest in our solar system?\n(a)Mars\n(b)Mercury\n(c)Jupiter|c|
+Chemical formula for water is ____.\n(a)H2O\n(b)HO\n(c)H2O2|a|
+What is the name of the central part of earth?\n(a)Core\n(b)Mantle\n(c)crust|a|
+The most common elements in seawater are_____.\n(a)Sodium\n(b)Chlorine\n(c)Both of these|c|
+The speed of light in air is____.\n(a)3×10⁸ms\n(b)3×10⁸m/s\n(c)3×10⁸m/s²|b|
+What is the average distance between the Sun and Earth?\n(a)light unit\n(b)Astronomical Unit\n(c)solar unit|b|
+The concept of electric field theory was introduced by______.\n(a)Galileo\n(b)Albert Einstein\n(c)Michael Faraday|c|
+The process of converting AC into DC is called_____.\n(a)Rectification\n(b)inversion\n(c)none of these|a|
+Why do bubbles pop, shortly after blown?\n(a)less Surface area\n(b)Dirt from the air\n(c)none of these|b|
+Power of a lens is measured in_____.\n(a)horsepower\n(b)Watt\n(c)Dioptre|c|

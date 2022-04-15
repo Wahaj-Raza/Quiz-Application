@@ -1,0 +1,6 @@
+A --> 3
+WAHAJ --> 3
+ABC --> 4
+ABC --> 4
+ATEEB --> 3
+WAHAJ --> 4

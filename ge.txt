@@ -1,0 +1,10 @@
+Which is the smallest flightless bird?\n(a)penguin\n(b)ostrich\n(c)Kiwi|c|
+Where was the first Asia cup held?\n(a)UAE\n(b)Sri Lanka\n(c)Pakistan|a|
+What is the name of the rainforest that is synonymous with Brazil?\n(a)Congo\n(b)Dauntsey\n(c)Amazon|c|
+Telephone was invented by_____.\n(a)Edison\n(b)Charles Babbage\n(c)Alexander Graham Bell|c|
+The word Urdu translates to_____.\n(a)group\n(b)Army\n(c)believers|b|
+The world’s loudest bird?\n(a)White bellbird\n(b)Macaws\n(c)Cockatoos|a|
+The world’s fastest sinking city is____.\n(a)Shanghai\n(b)Manila\n(c)Jakarta|c|
+From which language is the word ketchup derived?\n(a)Chinese\n(b)French\n(c)German|a|
+Who was the only five star general in the history of Pakistan?\n(a)General Ayub Khan\n(b)General M. Zia ul Haq\n(c)General Parvez Musharraf|a|
+Hitler party which came into power in 1933 is known as____.\n(a)Labour Party\n(b)Nazi party\n(c)democratic party|b|

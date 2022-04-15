@@ -1,0 +1,72 @@
+[
+    {
+        "1": "What planet is the biggest in our solar system? ",
+        "2": "What is the chemical symbol for silver in the periodic table? ",
+        "3": "Chemical formula for water is ____.?",
+        "4": "How many groups are there in the periodic table?",
+        "5": "Atomic number is represented by which letter? ?",
+        "6": "What is the name of the central part of earth?",
+        "7": "The most common elements in seawater are_____.",
+        "8": "The speed of light in air is____.",
+        "9": "What is the average distance between the Sun and Earth??",
+        "10": "Mirage is an example of______.?"
+    },
+    {
+        "1": [
+            "(a)Mars",
+            "(b)Mercury",
+            "(c)Jupiter"
+        ],
+
+        "2": [
+            "(a)Au",
+            "(b)Ag",
+            "(c)Si"
+        ],
+        "3": [
+            "(a)H2O",
+            "(b)HO",
+            "(c)H2O2"
+
+        ],
+        "4": [
+            "(a)16",
+            "(b)14",
+            "(c)18"
+
+        ],
+        "5": [
+            "(a)Z",
+            "(b)A",
+            "(c)N"
+
+        ],
+        "6": [
+            "(a)Core",
+            "(b)Mantle",
+            "(c)Crust"
+        ],
+        "7": [
+            "(a)Sodium",
+            "(b)Chlorine",
+            "(c)Both of these"
+
+        ],
+        "8": [
+            "(a)3×10⁸ms",
+            "(b)3×10⁸m/s",
+            "(c)3×10⁸m/s²"
+        ],
+        "9": [
+            "(a)Light unit",
+            "(b)Astronomical Unit",
+            "(c)Solar Unit"
+
+        ],
+        "10": [
+            "(a)Refraction and total internal reflection of light",
+            "(b)refraction",
+            "(c)total internal reflection"
+        ]
+    }
+]

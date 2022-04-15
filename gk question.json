@@ -1,0 +1,72 @@
+[
+    {
+        "1": "Which is the smallest flightless bird? ",
+        "2": " Where was the first Asia cup held?",
+        "3": "What is the name of the rainforest that is synonymous with Brazil?",
+        "4": "Telephone was invented by_____.",
+        "5": "The word Urdu translates to_____.",
+        "6": "The world’s loudest bird?",
+        "7": "The world’s fastest sinking city is____.",
+        "8": "From which language is the word ketchup derived?",
+        "9": "Who was the only five star general in the history of Pakistan?",
+        "10": "Hitler party which came into power in 1933 is known as____."
+    },
+    {
+        "1": [
+            "(a)Penguin",
+            "(b)Ostrich",
+            "(c)Kiwi"
+        ],
+
+        "2": [
+            "(a)UAE",
+            "(b)Sri Lanka",
+            "(c)Pakistan"
+        ],
+        "3": [
+            "(a)Congo",
+            "(b)Dauntsley",
+            "(c)Amazon"
+
+        ],
+        "4": [
+            "(a)Edison",
+            "(b)Charles Babbage",
+            "(c)Alexander Graham Bell"
+
+        ],
+        "5": [
+            "(a)Group",
+            "(b)Army",
+            "(c)Believers"
+
+        ],
+        "6": [
+            "(a)White Bellbird",
+            "(b)Macaws",
+            "(c)Cockatoos"
+        ],
+        "7": [
+            "(a)Shanghai",
+            "(b)Manila",
+            "(c)Jakarta"
+
+        ],
+        "8": [
+            "(a)Chinese",
+            "(b)French",
+            "(c)German"
+        ],
+        "9": [
+            "(a)General Ayub Khan",
+            "(b)General M. Zia ul Haq",
+            "(c)General Parvez Musharraf"
+
+        ],
+        "10": [
+            "(a)Labour Party",
+            "(b)Nazi Party",
+            "(c)Democratic Party"
+        ]
+    }
+]
